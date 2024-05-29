@@ -1,0 +1,17 @@
+# Build settings
+markdown: kramdown
+theme: minima
+# remote_theme: mmistakes/minimal-mistakes
+
+title: Bioinformatics Seminars
+author: School of Biomedical Sciences, HKU
+
+# Minima: show excerpts in the frontpage
+show_excerpts: true
+
+minima:
+  date_format: "%d/%m/%Y"
+
+# Minima: custom header links
+header_pages:
+  - README.md
