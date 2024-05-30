@@ -3,8 +3,8 @@ markdown: kramdown
 theme: minima
 # remote_theme: mmistakes/minimal-mistakes
 
-title: Bioinformatics Seminars
-author: School of Biomedical Sciences, HKU
+title: HKU Bioinformatics Seminars
+author: Bioinformatics Network @ HKU
 
 # Minima: show excerpts in the frontpage
 show_excerpts: true

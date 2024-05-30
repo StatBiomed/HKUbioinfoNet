@@ -2,7 +2,7 @@
 permalink: /
 layout: page
 title: About
-list_title: Bioinformatics Seminars
+list_title: HKU Bioinformatics Seminars
 ---
 
 
@@ -13,8 +13,14 @@ Materials are stored in this GitHub repo:
 
 ### Schedule
 
-<iframe width="550" height="350" src="https://docs.google.com/spreadsheets/d/e/2PACX-1vSzHPXjbJyvk71hqgrexzBwt7J2X751lOA2pSFqCGYy8PqP3wkaiDLjzbCtJIQ7QWzzQnTWyU9D18qS/pubhtml?widget=true&amp;headers=false"></iframe>
+<iframe width="650" height="400" src="https://docs.google.com/spreadsheets/d/e/2PACX-1vSzHPXjbJyvk71hqgrexzBwt7J2X751lOA2pSFqCGYy8PqP3wkaiDLjzbCtJIQ7QWzzQnTWyU9D18qS/pubhtml?widget=true&amp;headers=false"></iframe>
 
+<br/>
+<br/>
 
 ### Join
 
+If you are interested receiving updates / notifications, please subscribe by sending an email to our [organizer](mailto:lishumin@connect.hku.hk).
+
+> To *unsubscribe* from this group, send email to 
+  [bioinfo-network-hku+unsubscribe@googlegroups.com](mailto:bioinfo-network-hku+unsubscribe@googlegroups.com).
