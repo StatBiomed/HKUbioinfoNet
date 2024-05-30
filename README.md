@@ -19,7 +19,7 @@ Materials are stored in this GitHub repo:
 
 ### Join
 
-If you are interested receiving updates / notifications, please subscribe by sending an email to our 
+If you are interested in receiving updates / notifications, please subscribe to our bioinfo-network-hku group by sending an email to our 
 [organizer](mailto:lishumin@connect.hku.hk?subject=Subscribe bioinfo-network-hku group&body=Hi,my name is ?? from ?? lab. Thanks.).
 
 > To *unsubscribe* from this group, send email to 
