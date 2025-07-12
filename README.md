@@ -27,7 +27,8 @@ To be added or modified, please push and request a pull or contact us (see below
 | [Joshua Ho](https://www.sbms.hku.hk/staff/joshua-wing-kei-ho) | 21 & 5 Sassoon Road | Comp Bio/Digital Health       |
 | [Jason Wong](https://www.sbms.hku.hk/staff/jason-wing-hon-wong) | 21 & 5 Sassoon Road | Comp Bio/Cancer Genomics      |
 | [David Shih](https://www.sbms.hku.hk/staff/david-jen-hao-shih) | 21 Sassoon Road     | Cancer Bioinfo                |
-| [Wei Dai](https://oncology.med.hku.hk/en/Our-Team/Academic-Staff/Professor-Wei-DAI/Professor-Wei-DAI-Profile) | 21 Sassoon Road     | Cancer Bioinfo                |
+| [Gladys Poon](https://www.sbms.hku.hk/staff/gladys-yeuk-pin-poon) | 21 Sassoon Road     | Cancer Bioinfo/HCC           |
+| [Wei Dai](https://oncology.med.hku.hk/en/Our-Team/Academic-Staff/Professor-Wei-DAI/Professor-Wei-DAI-Profile) | 21 Sassoon Road     | Cancer Bioinfo/NPC           |
 | [Tommy Lam](https://sph.hku.hk/en/Biography/Lam-Tsan-Yuk-Tommy) | 21 Sassoon Road     | Viral Bioinfo/Public Health   |
 | [Ruibang Luo](https://www.cs.hku.hk/people/academic-staff/rbluo) | Computer Sci        | Algorithm Bioinfo             |
 | [Zhenqin Wu](https://www.zhenqin-wu.com/) | Computer Sci        | Spatial Omics                 |
